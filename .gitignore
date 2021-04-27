@@ -1,0 +1,7 @@
+.idea
+build
+.gradle
+lombok.config
+*secrets*.json
+*secret*.json
+*.mp4
